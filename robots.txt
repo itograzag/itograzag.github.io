@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itograzag.github.io/itograzag.itograzag
+Sitemap: https://itograzag.github.io/app/itograzag.itograzag
+Sitemap: https://itograzag.github.io/assets/itograzag.itograzag
+Sitemap: https://itograzag.github.io/css/itograzag.itograzag
+Sitemap: https://itograzag.github.io/includes/itograzag.itograzag
+Sitemap: https://itograzag.github.io/item/itograzag.itograzag
+Sitemap: https://itograzag.github.io/src/itograzag.itograzag
